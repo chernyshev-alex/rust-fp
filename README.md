@@ -1,5 +1,5 @@
 # rust-fp
-Some functinal operators from scala cats library immplemented in rust
+Some functinal operators from scala cats library implemented in rust
 
 1 arrows
 
